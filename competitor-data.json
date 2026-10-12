@@ -1,0 +1,21 @@
+{
+  "asOf": "Oct 9, 2026",
+  "brands": [
+    { "name": "Sqwincher", "flavor": "Mixed Berry", "price": 0.56, "src": "$28.08 / 50 ct", "na": 135, "k": 110, "total": 245, "minerals": 2, "powder": 3.3 },
+    { "name": "Overtime", "flavor": "Orange", "price": 0.43, "src": "$171.77 / 400 ct", "na": 100, "k": 340, "total": 440, "minerals": 2, "powder": 1.9 },
+    { "name": "All Sport", "flavor": "Blue Raz", "price": 0.50, "src": "$24.95 / 50 ct", "na": 140, "k": 150, "total": 290, "minerals": 2, "powder": 2.8 },
+    { "name": "Gatorade", "flavor": "Fruit Punch", "price": 0.39, "src": "$47.18 / 120 ct", "na": 270, "k": 80, "total": 350, "minerals": 2, "powder": 2.3 },
+    { "name": "Liquid I.V.", "flavor": "Firecracker", "price": 1.42, "src": "$22.66 / 16 ct", "na": 500, "k": 370, "total": 870, "minerals": 2, "stickNote": "+ 11 g sugar" },
+    { "name": "LMNT", "flavor": "Pink Lemonade", "price": 1.50, "src": "$45.00 / 30 ct", "na": 1000, "k": 200, "mg": 60, "total": 1260, "minerals": 3, "stickNote": "+ 1,000 mg sodium" }
+  ],
+  "sources": [
+    "Electrolyte amounts from each product's Nutrition Facts / Supplement Facts panel as printed on the stick shown.",
+    "Sqwincher Zero Qwik Stik — industrial-supply listing, 50 ct.",
+    "Overtime Electrolyte Replacement Drink Mix — bulk case listing, 400 ct.",
+    "All Sport Zero powder sticks — retailer listing, 50 ct.",
+    "Gatorade Zero powder packets — retailer listing, 120 ct.",
+    "Liquid I.V. Hydration Multiplier, Popsicle Firecracker — Amazon, 16 ct.",
+    "LMNT Pink Lemonade — drinklmnt.com, 30 ct.",
+    "Maltodextrin: FDA Substances Added to Food inventory (technical effects listed; not an electrolyte)."
+  ]
+}
